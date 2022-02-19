@@ -4,7 +4,7 @@
 
 个人Github：[LmyPotato](https://github.com/LmyPotato)
 
-[csdn](https://blog.csdn.net/qq_45774073?spm=1000.2115.3001.5343)
+个人CSDN：[csdn](https://blog.csdn.net/qq_45774073?spm=1000.2115.3001.5343)
 
 文章在标签中[点这里](https://lmypotato.github.io/tags/)
 
