@@ -1,9 +1,11 @@
 title: Potato # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
   LmyPotato<br/>
-  lmy<br/>
   <a href="https://github.com/LmyPotato">
     <i class="fab fa-github"></i>
+  </a>
+   <a href="2979262338@qq.com">
+    <i class="fab fa-email"></i>
   </a>
   <br/>
 url:  # 你的域名，例如 https://wu-kan.github.io
