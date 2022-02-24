@@ -4,8 +4,8 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   <a href="https://github.com/LmyPotato">
     <i class="fab fa-github"></i>
   </a>
-  <a href="2014199838@qq.com">
-    <i class="fab fa-qq"></i>
+  <a href="https://www.qq.com">
+    <i class="fab fa-mail-qq.com"></i>
   </a>
   <br/>
 url:  # 你的域名，例如 https://wu-kan.github.io
